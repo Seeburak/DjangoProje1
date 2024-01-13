@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.profil-img{
+    width: 250px;
+    height: 450px;
+    background-color: #19233ecc;
+    margin-top:5rem ;
+    border-radius: 1rem;
+    
+}
+
+.profil-img img{
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+    border-radius: 20px;
+}
+
+.detail{
+    width: 700px;
+    height: 450px;
+    margin-top:5rem ;
+    border-radius: 1rem;
+    background-color: #19233ecc;
+}
